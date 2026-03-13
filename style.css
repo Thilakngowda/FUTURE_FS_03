@@ -1,0 +1,94 @@
+body{
+font-family:Arial;
+margin:0;
+background:#fff9f0;
+}
+
+/* HEADER */
+
+header{
+background:#6b3e26;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+/* NAV */
+
+nav{
+background:#d9a066;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+margin:15px;
+text-decoration:none;
+color:black;
+font-weight:bold;
+}
+
+/* SECTIONS */
+
+section{
+padding:40px;
+text-align:center;
+}
+
+/* MENU */
+
+.menu-item{
+background:white;
+padding:20px;
+margin:15px auto;
+width:300px;
+box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* GALLERY */
+
+.gallery img{
+width:250px;
+margin:10px;
+border-radius:10px;
+}
+
+/* CONTACT */
+
+input,textarea{
+display:block;
+margin:10px auto;
+padding:10px;
+width:250px;
+}
+
+button{
+padding:10px 20px;
+background:#6b3e26;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+/* FOOTER */
+
+footer{
+background:#333;
+color:white;
+text-align:center;
+padding:15px;
+}
+
+.benefits{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.benefit{
+background:white;
+padding:20px;
+margin:15px;
+width:250px;
+box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
