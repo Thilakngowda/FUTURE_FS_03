@@ -27,11 +27,10 @@ The goal of this project is to design a **simple, visually appealing, and user-f
  📂 Project Structure
 
 local-business-website
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+ index.html
+ style.css
+ script.js
+ README.md
 
 
 ---
