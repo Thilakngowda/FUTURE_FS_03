@@ -1,4 +1,4 @@
- 🌐 Local Business Website
+# 🌐 Local Business Website
 
  Overview
 
@@ -8,7 +8,7 @@ The goal of this project is to design a **simple, visually appealing, and user-f
 
 ---
 
- ✨ Key Features
+## ✨ Key Features
 - Clear **business introduction** and information
 - **Menu / Services section** highlighting offerings
 - **Image gallery** showcasing the business environment
@@ -17,14 +17,14 @@ The goal of this project is to design a **simple, visually appealing, and user-f
 
 ---
 
- 🛠 Technologies Used
+# 🛠 Technologies Used
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and layout design  
 - **JavaScript** – Interactive functionality  
 
 ---
 
- 📂 Project Structure
+# 📂 Project Structure
 
 local-business-website
  index.html
@@ -35,19 +35,19 @@ local-business-website
 
 ---
 
- 🚀 Getting Started
+# 🚀 Getting Started
 1. Clone or download the repository.
 2. Open the project folder.
 3. Run **index.html** in your browser to view the website.
 
 ---
 
- 🎯 Project Purpose
+# 🎯 Project Purpose
 
 This project demonstrates the ability to design and develop a **functional website for a real-world business scenario**, focusing on usability, simplicity, and effective presentation of information.
 
 ---
 
- 👨‍💻 Author
+# 👨‍💻 Author
   
   **Thilak N Gowda**
